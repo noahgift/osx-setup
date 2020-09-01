@@ -13,3 +13,4 @@ Install these tools:
 * Pytest is a testing tool [pytest](https://docs.pytest.org/en/stable/)
 * Formatting tool [black](https://github.com/psf/black)
 * [Pylint](https://www.pylint.org/) is a testing tool
+* [Github](https://github.com/features/actions)
