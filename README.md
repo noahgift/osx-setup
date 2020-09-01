@@ -5,6 +5,7 @@ Install these tools:
 
 * [Oh-my-zsh](https://ohmyz.sh/)
 * [Homebrew](https://brew.sh/)
+`brew install python3`
 * [Visual Studio](https://code.visualstudio.com/)
 
 ### For a python project
