@@ -1,4 +1,4 @@
-### osx-setup
+### OS X Setup
 My recommendations for OS X setup for Python
 
 Install these tools:
